@@ -9,8 +9,6 @@ This is a YouTube clone project built with React.js and utilizes the Rapid API f
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Key](#api-key)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
